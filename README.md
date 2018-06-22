@@ -12,7 +12,7 @@ Example: To achieve the business goal of seamlessly moving geological survey dat
 
 State the defense for architectural choices.
 
-Example: Because of its built in connectors and ease-of-use, the Integration Team has selected Mulesoft as the primary technology to help deliver data from the Azure Data Lake to Salesforce. Mulesoft will provide REST API in the form of a process layer and an experience layer for the mobile development team. The integration team will also make use of Azure Data Factory to transform and extract geological survey data, and the integration team will build microservices to fascilitate data enrichment for the experience layer. 
+Example: Because of its built-in connectors and ease-of-use, the Integration Team has selected Mulesoft as the primary technology to help deliver data from the Azure Data Lake to Salesforce. Mulesoft will provide REST API in the form of a process layer and an experience layer for the mobile development team. The integration team will also make use of Azure Data Factory to transform and extract geological survey data, and the integration team will build microservices to facilitate data enrichment for the experience layer. 
 
 *High-level Business Requirements*
 
