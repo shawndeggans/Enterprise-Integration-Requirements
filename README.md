@@ -19,3 +19,347 @@ Example: Because of its built-in connectors and ease-of-use, the Integration Tea
 Gather basic business requirements in the form of Assert must, shall, will, will not.
 
 Integration shall align geological survey data to the correct salesforce account of the geologist.
+
+Integration Mechanisms
+======================
+
+Event-driven Mechanisms
+-----------------------
+
+Triggering frequency
+
+Cadence
+
+Performance Feasibility
+
+Synchronous / Asynchronous Response Types
+-----------------------------------------
+
+Maximum possible size of response
+
+Maximum possible response time
+
+Performance Feasibility
+
+Batch Processing
+----------------
+
+Batch Size
+
+Batch Update Frequency
+
+Performance Feasibility
+
+Routing/Transformations/Composite Services
+==========================================
+
+Message Delivery
+----------------
+
+Message loss acceptance
+
+Message loss exception strategy
+
+SLA
+---
+
+Service Level Agreement Parameters
+
+Message Integrity
+-----------------
+
+Duplication and Idempotent strategy
+
+Single Message or Message Sequence
+
+Message Sequence Order of Operation and Order of Delivery
+
+Conflict Resolution Strategy for Multiple Sources of Truth
+
+Availability
+------------
+
+Required Quality of Service
+
+Inbound Services
+================
+
+Service Contract
+----------------
+
+Define the Inbound Service Contracts
+
+Mapping
+-------
+
+API to Entity
+
+Transaction Boundaries
+----------------------
+
+Transactional or Non-Transactional Steps
+
+Inbound Message
+---------------
+
+Corrupt / Bad Message Response
+
+Handling
+
+Entity Creation
+---------------
+
+Identifier handling
+
+System of Record
+
+Attribute level mapping
+
+Outbound Services/Event Publishers
+==================================
+
+Service Contract
+----------------
+
+Define the Outbound Service Contract
+
+Outbound Transformation
+-----------------------
+
+Outbound Contract Verification
+
+Events
+------
+
+Event Contract
+
+Trigger definition
+
+Loop handling
+
+Quality of Service
+------------------
+
+Promised Contract
+
+Canonical Data Model / Integration Model
+========================================
+
+CDM Identifiers
+---------------
+
+Mappings
+
+Source Systems
+
+Master System Attributes
+
+Attribute/Value Representation
+------------------------------
+
+Meta-attributes
+
+Value Patterns
+
+Formal and Informal Attribute Structures
+
+CDM Vocabulary
+--------------
+
+Definitions
+
+Application Mappings
+
+Mapping Maintenance Procedures
+
+Enumerations
+------------
+
+Concrete Values
+
+Schema Validation
+
+Artifact Vocabulary 
+--------------------
+
+Context mapping
+
+Noun/Action Mapping
+
+Error Handling
+==============
+
+Feature Set
+-----------
+
+Integration Exceptions
+
+Incident Process
+
+API Exceptions
+--------------
+
+Exception Taxonomy Definition
+
+Error Messaging
+---------------
+
+Error Explanations
+
+Error Notification Plan
+
+Machine Handling
+----------------
+
+Status Codes
+
+Business Events Handling
+========================
+
+Primary Business Events
+-----------------------
+
+Business events for telemetry
+
+Business events for tracking
+
+Business events to Publish for Subscribers
+
+Key Processes
+-------------
+
+Tracking key processes
+
+Transactions
+------------
+
+Before and after states
+
+Meaningful transaction ids
+
+Replay
+------
+
+Business event transactional replay
+
+Security
+========
+
+Credentials
+-----------
+
+Inbound / Outbound Credential Requirements
+
+Encryption
+----------
+
+Message Encryption
+
+Password storage
+
+NPI Transport
+
+Log obfuscation
+
+DevOps / Maintenance
+====================
+
+Incident Taxonomy
+-----------------
+
+Reaction to Incident Scenarios
+
+Operation procedures
+
+Logging
+-------
+
+DevOps logs
+
+Log management policy
+
+Outages
+-------
+
+Emergency loss handling
+
+Monitoring 
+-----------
+
+Considerations
+
+Context
+
+Incidents
+
+HealthCheck API / Flows
+
+Mulesoft Microservice Environments
+==================================
+
+Development
+-----------
+
+Dev details
+
+Quality Assurance
+-----------------
+
+QA details
+
+Production
+----------
+
+Prod details
+
+General
+=======
+
+Big Picture
+-----------
+
+Clear Definition
+
+Open Issues
+
+Assumptions Checked
+
+Dependencies Known
+
+Compliance
+
+Requirements Met
+
+Delivery Team
+=============
+
+-   EIS contacts
+
+-   Partner contacts
+
+-   Enterprise solution contacts
+
+-   Product owner contacts
+
+-   QA contacts
+
+-   BA contacts
+
+-   Security contacts
+
+-   DevOps contacts
+
+Sign-off 
+=========
+
+System and Architectural Stakeholders agree to the accuracy of the information
+in this document and accept it as the integration scope-of-work.
+
+| **Approver Name** | **Department** | **Signature** | **Date** |
+|-------------------|----------------|---------------|----------|
+|                   |                |               |          |
+|                   |                |               |          |
+|                   |                |               |          |
+|                   |                |               |          |
+|                   |                |               |          |
+
