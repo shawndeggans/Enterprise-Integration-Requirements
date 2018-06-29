@@ -26,6 +26,8 @@ Integration Mechanisms
 Event-driven Mechanisms
 -----------------------
 
+(http://www.enterpriseintegrationpatterns.com/patterns/messaging/EventDrivenConsumer.html "Event Driven Consumer")
+
 Triggering frequency
 
 Cadence
