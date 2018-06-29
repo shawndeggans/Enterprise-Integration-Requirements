@@ -365,3 +365,9 @@ in this document and accept it as the integration scope-of-work.
 |                   |                |               |          |
 |                   |                |               |          |
 
+Credits
+==========
+I've built this document from the original work of Peter Rajsky. Peter's "Personal Checklist of Integration Architect," was
+instrumental in helping to guide me through my first few large integrations. [Personal Checklist of Integration Architect](https://it.toolbox.com/blogs/peterrajsky/personal-checklist-of-integration-architect-121708, "Personal Checklist of Integration Architect")
+
+The Bible of Enterprise Integration (http://www.enterpriseintegrationpatterns.com, "Enterprise Integration Patterns by Gregor Hohpe and Bobby Woolf")
