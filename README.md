@@ -27,6 +27,8 @@ Event-driven Mechanisms
 -----------------------
 
 [Enterprise Integration Patterns - Event Driven Consumer](http://www.enterpriseintegrationpatterns.com/patterns/messaging/EventDrivenConsumer.html "Event Driven Consumer")
+[Event Collaboration - Martin Fowler]
+(https://martinfowler.com/eaaDev/EventCollaboration.html)
 
 Triggering frequency
 
